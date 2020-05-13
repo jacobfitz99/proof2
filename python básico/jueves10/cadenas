@@ -1,0 +1,15 @@
+#######
+#cadenas
+#########
+
+cad1 = '"se imprimen las comillas dobles"'
+
+print(cad1)
+
+poema = '''
+"La noche está estrellada
+y tiritan azules los astros a lo lejos"
+
+        '''
+print(poema)
+        

@@ -1,0 +1,10 @@
+############
+# Cadenas 2 
+# cuestionario: bit.ly/2Mgiqar
+############
+
+#Características de las canedas 
+
+#Indexación 
+cad = "Hola"
+print(cad[1])
